@@ -1,25 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to my personal website!
 
-You can use the [editor on GitHub](https://github.com/rmaiti01/rmaiti01.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am Rajarshi Maiti, a third-year BSc Maths student at Queen's University Belfast. I am primarily interested in analytic number theory but I am open to learning about other fields of pure mathematics!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
-```markdown
-Syntax highlighted code block
+1. BSc Mathematics, Queen's University Belfast (2019-2022)
 
-# Header 1
-## Header 2
-### Header 3
+### Research Experience
 
-- Bulleted
-- List
+1. Summer Research Project on the irrationality of values of the zeta function under Dr. Tiago J. Fonseca (Postdoc at Oxford) (2021 summer)
 
-1. Numbered
-2. List
+
+
 
 **Bold** and _Italic_ and `Code` text
 
